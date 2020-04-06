@@ -1,4 +1,4 @@
-# Projeto TASK
+# Projeto TASK - Offline
 
 Projeto desenvolvido em  React-Native.
 
